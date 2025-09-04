@@ -10,3 +10,8 @@ Sam's idea for web dev class
 - test list
 - "" 2 
 
+`one back tick`
+
+```html
+random code 
+```
