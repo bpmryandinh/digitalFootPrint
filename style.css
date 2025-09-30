@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 
-
+/* index.html card */
 .card {
     width: 400px;
     background: rgb(103, 103, 235);
@@ -13,6 +13,17 @@
     border: 5px solid rgb(56, 17, 104);
     font-family: 'Courier New', Courier, monospace;
     margin: auto;
+}
+
+/* blog.html card */
+.card.two{
+    background-color: maroon;
+    width: 550px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15%;
+    border-style: solid;
+    border: 5px solid rgb(28, 2, 2);
 }
 
 .card h3{
