@@ -28,6 +28,12 @@ p{
     font-size: 20px;
 }
 
+li{
+    display: flex;
+    flex: 1;
+    font-size: 20px;
+}
+
 /* 10/7/25 class example of flexbox*/
 .header {
     display : flex;
